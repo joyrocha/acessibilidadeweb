@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    background-color: white;
+    width: auto;
+}
+
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.texto {
+    padding-right: 380px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+.paragrafo {
+    padding-right: 200px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.linkcabecalho{
+    color: #3299bb;
+    text-decoration: none;
+    font-size: 14pt;
+    /* text-transform: uppercase; */
+}
+
+
+.logo img{
+    height: 70px;
+    right: 70px;
+    margin-right: 900px;
+    /* margin-top: 20px; */
+}
+
+.homem img{
+    height: 350px;
+    right: 350px;
+    margin-left: -300px;
+
+}
+
+/* cabecalho
+------------------------------------------------------------------------------------------------------------------ */
+
+
+header {
+   background-color: #dddddd;
+   text-align: center;
+   width: 1200px;
+   margin-left: 400px;
+   margin-top: 20px;
+   padding: 10px;
+}
+
+section{
+    margin: auto;
+    margin-top: 40px;
+    display: -webkit-box;
+    width: 60vw;
+    width: 1020px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+
+nav{
+
+display: flex;   
+
+align-items: center; 
+
+justify-content: flex-end;
+
+margin-top: -70px;
+
+}
+
+footer{
+
+    background-color: #3299bb;
+    text-align: center;
+    width: 1200px;
+    margin-left: 400px;
+    margin-top: -4px;
+    padding: 10px;
+    color: white;
+}
+
+
